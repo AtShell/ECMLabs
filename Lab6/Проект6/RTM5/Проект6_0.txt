@@ -1,0 +1,16 @@
+(20:31:48) INF_LOAD:Starting... Проект6_0
+(20:31:48) INF_RTM:Detected NT6.RTM 6.2 
+(20:31:48) ._.:Base TRACE MODE 6 Profiler  ver. 6.06.3 
+(20:31:48) INF_LOAD:Load Channels = 11
+(20:31:48) INF_LOAD:Templates=4 
+(20:31:48) INF_LOAD:Objects = 3
+(20:31:48) INF_RTM:Timer=0.055s CalcLoop=550ms 
+(20:31:48) INF_RTM:start time is 0 s 
+(20:31:58) INF_RTM:ModeSwitch e15=0000 e18=0000 e20=0000 [0] 
+(20:31:58) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [0-0] 
+(20:31:58) WRN_DDE: 
+(20:32:10) INF_RTM:stoping... 
+(20:32:11) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [0-0] 
+(20:32:11) INF_RTM:stop time is 1.596 s 
+(20:32:11) INF_RTM:number of calculation = 19
+(20:32:11) ._.:END OF WORK 
